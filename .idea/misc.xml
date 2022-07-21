@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/activity_main.xml" value="0.23743016759776536" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/custom_tab.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/fragment_about_adib.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/fragment_add.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/fragment_adiblar.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/fragment_adiblar_view_pager.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/fragment_info_app.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/fragment_saqlanganlar.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/fragment_sozlamalar.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/layout/item_adib.xml" value="0.2" />
+        <entry key="..\:/Mobiller/AndroidStudioProjects/Lesson66Adiblar/app/src/main/res/menu/menu_bottom.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
