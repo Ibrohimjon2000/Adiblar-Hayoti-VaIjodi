@@ -83,6 +83,7 @@ class SaqlanganlarFragment : Fragment() {
                             adib.isSave = false
                             firestore.collection("adib").document(adib.uid.toString()).set(adib)
                             list.remove(adib)
+                            adibAdapter.notifyDataSetChanged()
                             if (list.isNotEmpty()) {
                                 binding.lottie.visibility = View.INVISIBLE
                             } else {
@@ -96,7 +97,6 @@ class SaqlanganlarFragment : Fragment() {
                         }
                     }
                 })
-            adibAdapter.notifyDataSetChanged()
             rv.adapter = adibAdapter
         }
         return binding.root
