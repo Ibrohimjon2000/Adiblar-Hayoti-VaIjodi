@@ -53,7 +53,7 @@ class AdiblarFragment : Fragment() {
                 if (abs(verticalOffset) == appBarLayout?.totalScrollRange) {
                     tabLayout.setBackgroundResource(R.drawable.grey_tablayout_background)
                     toolbar.setBackgroundColor(Color.WHITE)
-                } else if (verticalOffset == 0) {
+                } else if (abs(verticalOffset) != appBarLayout?.totalScrollRange) {
                     tabLayout.setBackgroundResource(R.drawable.tablayout_background)
                     toolbar.setBackgroundColor(Color.parseColor("#E5E5E5"))
                 }

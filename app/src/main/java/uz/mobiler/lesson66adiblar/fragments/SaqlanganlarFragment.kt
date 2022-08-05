@@ -53,7 +53,7 @@ class SaqlanganlarFragment : Fragment() {
                 if (abs(verticalOffset) == appBarLayout?.totalScrollRange) {
                     toolbar.setBackgroundColor(Color.WHITE)
                     saqlanganInfo.textSize = 20f
-                } else if (verticalOffset == 0) {
+                } else if (abs(verticalOffset) != appBarLayout?.totalScrollRange) {
                     toolbar.setBackgroundColor(Color.parseColor("#E5E5E5"))
                     saqlanganInfo.textSize = 25f
                 }

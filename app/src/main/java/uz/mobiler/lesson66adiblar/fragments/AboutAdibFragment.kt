@@ -81,7 +81,7 @@ class AboutAdibFragment : Fragment() {
                     } else {
                         search.setBackgroundResource(R.drawable.tablayout_background)
                     }
-                } else if (verticalOffset == 0) {
+                } else if (abs(verticalOffset) != appBarLayout?.totalScrollRange) {
                     date.visibility = View.VISIBLE
                     toolbar.setBackgroundColor(Color.parseColor("#E5E5E5"))
                     if (searchConteyner.isVisible) {
