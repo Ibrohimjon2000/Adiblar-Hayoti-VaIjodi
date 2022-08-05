@@ -1,5 +1,6 @@
 # Lesson66AdiblarHayotiVaIjodi
 Adiblar hayoti va ijodi haqida mobil ilova
+
 ![Screenshot_20220805-143038_Adiblar xayoti va ijodi](https://user-images.githubusercontent.com/93897784/183049482-f473744b-64a8-4907-ba35-ded35460f627.jpg)
 ![Screenshot_20220805-143046_Adiblar xayoti va ijodi](https://user-images.githubusercontent.com/93897784/183049542-35a56324-12f8-4489-800a-e4e4d4a48bef.jpg)
 ![Screenshot_20220805-143052_Adiblar xayoti va ijodi](https://user-images.githubusercontent.com/93897784/183049587-f2c3c77e-88f9-40a2-ab6e-344f18469944.jpg)
